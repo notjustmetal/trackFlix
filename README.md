@@ -4,7 +4,7 @@
 
 ![trakFlix](https://github.com/notjustmetal/trackFlix/blob/master/images/trackFlix-logo.jpg)
 
-## Introduction
+## About
 
 trackFlix is a iOS movie tracking app that provides information about new movie releases and allows users to create a watch list of movies that they have seen. Information is stored through Core Data and users can search for movies and add them to their list.
 
