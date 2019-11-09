@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6Q4-IY-1qz"; */
+"6Q4-IY-1qz.text" = "Titre";
+
+/* Class = "UILabel"; text = "String"; ObjectID = "7pd-zo-jS1"; */
+"7pd-zo-jS1.text" = "Chaîne";
+
+/* Class = "UITabBarItem"; title = "Requirements"; ObjectID = "UIg-qQ-nbw"; */
+"UIg-qQ-nbw.title" = "Exigences";
+
+/* Class = "UILabel"; text = "Overview:"; ObjectID = "XXu-Iv-ryh"; */
+"XXu-Iv-ryh.text" = "Aperçu:";
+
+/* Class = "UITabBarItem"; title = "Now Playing"; ObjectID = "Xg8-eu-YMy"; */
+"Xg8-eu-YMy.title" = "En cours de lecture";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "YjD-5S-J3q"; */
+"YjD-5S-J3q.text" = "Numéro";
+
+/* Class = "UILabel"; text = "ReleaseDate"; ObjectID = "h0C-Cg-rvC"; */
+"h0C-Cg-rvC.text" = "Date de sortie";
+
+/* Class = "UILabel"; text = "Synopsis"; ObjectID = "mea-cf-eZg"; */
+"mea-cf-eZg.text" = "Synopsis";
+
+/* Class = "UILabel"; text = "Boolean"; ObjectID = "oCb-yA-v9Z"; */
+"oCb-yA-v9Z.text" = "Booléen";
+
+/* Class = "UILabel"; text = "Release Date"; ObjectID = "orO-Bg-N4b"; */
+"orO-Bg-N4b.text" = "Date de sortie";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "v33-pS-UoP"; */
+"v33-pS-UoP.text" = "Titre";
